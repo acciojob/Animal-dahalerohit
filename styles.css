@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#Animal-photos>{
+#animal-photos>{
 	 display: flex;
             flex-wrap: wrap;
             justify-content:center;
